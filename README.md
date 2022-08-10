@@ -437,7 +437,7 @@ You can test it online: https://regex101.com/r/Ly7O1x/42
 Via Composer
 
 ``` bash
-$ composer require pragmarx/version
+$ composer require egoistdeveloper/laravel-version
 ```
 
 Then publish the configuration file you'll have to:
